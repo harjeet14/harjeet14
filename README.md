@@ -2,6 +2,9 @@
 
 
 ### Welcome to my Github! 👋
+
+<img align='right' src="ps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="230" />
+
 I am Harjeet, Full Stack Developer
 
 Recently, I have completed Web Developement Bootcamp from Lighthouse Labs as a Full Stack Deveveloper. Practiced coding with new full stack technologies.
@@ -14,3 +17,17 @@ I have extensive experience in UI development using JavaScript, React and also g
 👯 I’m looking for good opportunity to enhance my knowledge and apply my skills.
 
 💬 Ask me about anything.
+
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MaterialUI](https://img.shields.io/badge/-MUI-007ACC?style=flat-square&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
