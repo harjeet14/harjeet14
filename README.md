@@ -16,7 +16,11 @@ I have extensive experience in UI development using JavaScript, React and also g
 
 👯 I’m looking for good opportunity to enhance my knowledge and apply my skills.
 
+🥅 2022 Goal: Find a hybrid role in Web Development
+
 💬 Ask me about anything.
+
+[![Linkedin Badge](https://img.shields.io/badge/-NehaYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjeet-kaur-373675146/)](https://www.linkedin.com/in/harjeet-kaur-373675146/)
 
 ## ⚡ Technologies
 
@@ -26,7 +30,7 @@ I have extensive experience in UI development using JavaScript, React and also g
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/-MUI-007ACC?style=flat-square&logo=typescript)
+![MaterialUI](https://img.shields.io/badge/MUi-MaterialUI-yellow?style=flat-square&logo=materialUI)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
