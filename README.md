@@ -3,7 +3,7 @@
 
 ### Welcome to my Github! 👋
 
-<img align='right' src="ps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
+<img align='right' src="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS" width="230" />
 
 I am Harjeet, a Full Stack Developer.
 
