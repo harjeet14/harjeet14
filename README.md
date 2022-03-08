@@ -3,7 +3,7 @@
 
 ### Welcome to my Github! 👋
 
-<img align='right' src="ps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="230" />
+<img align='right' src="ps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
 
 I am Harjeet, a Full Stack Developer.
 
@@ -31,7 +31,7 @@ I have extensive experience in UI development using JavaScript, React and also g
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MaterialUI](https://img.shields.io/badge/MUi-MaterialUI-yellow?style=flat-square&logo=materialUI)
+![MaterialUI](https://img.shields.io/badge/MUI-MaterialUI-yellow?style=flat-square&logo=materialUI)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
