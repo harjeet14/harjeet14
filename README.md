@@ -20,7 +20,7 @@ I have extensive experience in UI development using JavaScript, React and also g
 
 💬 Ask me about anything.
 
-[![Linkedin Badge](https://img.shields.io/badge/-NehaYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjeet-kaur-373675146/)](https://www.linkedin.com/in/harjeet-kaur-373675146/)
+[![Linkedin Badge](https://img.shields.io/badge/-HarjeetKaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjeet-kaur-373675146/)](https://www.linkedin.com/in/harjeet-kaur-373675146/)
 
 ## ⚡ Technologies
 
