@@ -1,4 +1,5 @@
-Hello, My name is Harjeet
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+my+name+is+Harjeet;Welcome+to+my+repository)](https://git.io/typing-svg)
+
 
 ### Welcome to my Github! 👋
 I am Harjeet, Full Stack Developer
