@@ -3,7 +3,6 @@
 
 ### Welcome to my Github! 👋
 
-<iframe src="https://giphy.com/embed/ZVik7pBtu9dNS" width="280" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS">via GIPHY</a></p>" />
 
 I am Harjeet, a Full Stack Developer.
 
