@@ -5,14 +5,14 @@
 
 <img align='right' src="ps://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="230" />
 
-I am Harjeet, Full Stack Developer
+I am Harjeet, a Full Stack Developer.
 
-Recently, I have completed Web Developement Bootcamp from Lighthouse Labs as a Full Stack Deveveloper. Practiced coding with new full stack technologies.
-I have extensive experience in UI development using JavaScript, React and also got experience in backend development.
+Recently, I have completed the Web Development Bootcamp from Lighthouse Labs and graduated as a Full Stack Developer. Practiced coding with new full stack technologies.
+I have extensive experience in UI development using JavaScript, React and also got experience in backend development using NodeJs.
 
 🔭 I’m working on to learn more about data structures and algorithm.
 
-🌱 I’m continuing to learn the advanced react fundamentals.
+🌱 I’m continuing to learn the advanced React fundamentals.
 
 👯 I’m looking for good opportunity to enhance my knowledge and apply my skills.
 
@@ -20,8 +20,8 @@ I have extensive experience in UI development using JavaScript, React and also g
 
 💬 Ask me about anything.
 
-[![Linkedin Badge](https://img.shields.io/badge/-HarjeetKaur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjeet-kaur-373675146/)](https://www.linkedin.com/in/harjeet-kaur-373675146/)
-[![Gmail Badge](https://img.shields.io/badge/-harjeetkaur.dhanjal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harjeetkaur.dhanjal@gmail.com)](mailto:harjeetkaur.dhanjal@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-HarjeetKaur-teal?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harjeet-kaur-373675146/)](https://www.linkedin.com/in/harjeet-kaur-373675146/)
+[![Gmail Badge](https://img.shields.io/badge/-harjeetkaur.dhanjal@gmail.com-c14435?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harjeetkaur.dhanjal@gmail.com)](mailto:harjeetkaur.dhanjal@gmail.com)
 
 ## ⚡ Technologies
 
